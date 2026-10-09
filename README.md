@@ -15,7 +15,7 @@ Used an LLM to classify sentiment and topics in [500] Amazon food reviews, then 
 **Areas:** predictive modeling, ETL pipelines, data visualization, model evaluation
 
 ## Get in touch
-[LinkedIn](www.linkedin.com/in/neil-d-719b3514a) | neildighe@gmail.com
+[LinkedIn](www.linkedin.com/in/neil-dighe) | neildighe@gmail.com
 <!---
 GalaxyNinja45/GalaxyNinja45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
