@@ -7,8 +7,8 @@ I'm a data analyst and data scientist with an M.S. in Computational Data Analyti
 - Learning how to build with LLM APIs and evaluate them properly
 
 ## Featured project
-**[Turning Food Reviews into Structured Insight with an LLM](link-to-your-repo)**
-Used an LLM to classify sentiment and topics in [500] Amazon food reviews, then compared three prompts against a TF-IDF + logistic regression baseline. [One sentence on your headline result, such as which approach won and what error analysis showed.]
+**[Turning Food Reviews into Structured Insight with an LLM](https://github.com/GalaxyNinja45/Amazon-Sentiment-Analysis)** \
+Used an LLM to classify sentiment and topics in [500] Amazon food reviews, then compared three prompts against a TF-IDF + logistic regression baseline. 
 
 ## Skills
 **Languages & tools:** Python (Pandas, NumPy, scikit-learn), SQL, MySQL, Power BI, Tableau, Excel
